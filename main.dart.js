@@ -46302,7 +46302,7 @@ N.W4.prototype={
 $1:function(a){return!0},
 $S:33}
 F.xv.prototype={
-M:function(a,b){return new S.pi(new F.pw("Flutter Demo Home Page",null),"Flutter Demo",X.a2i(null,C.lQ),null)}}
+M:function(a,b){return new S.pi(new F.pw("Flutter Demo Home Page",null),"Flutter Demo2",X.a2i(null,C.lQ),null)}}
 F.pw.prototype={
 aO:function(){return new F.ta(C.m)}}
 F.ta.prototype={
